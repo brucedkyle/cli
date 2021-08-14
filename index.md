@@ -81,6 +81,12 @@ The latest version of the {{site.data.keyword.cloud_notm}} CLI is installed when
 
   To open PowerShell, right-click the Windows&trade; PowerShell icon, and select **Run as administrator**.
   {: tip}
+  
+* For WSL2 on Windows&trade;, use:
+
+  ```
+  curl -fsSL https://clis.cloud.ibm.com/install/linux | sh
+  ```
 
 * For automating DevOps installations, you can also access the installer script directly from this [GitHub repo](https://github.com/IBM-Cloud/ibm-cloud-developer-tools){: external}.
 
